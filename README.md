@@ -1,5 +1,5 @@
 <h1>Printf</h1>
-<h3>{EPITECH} -- First year -- first PSU project</h3>
+<h3>{EPITECH} -- First year -- Semester 1 -- first PSU project</h3>
 
 <p>1st semester PSU unit part I : Grade C</p>
 
