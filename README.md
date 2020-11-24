@@ -3,7 +3,7 @@
 
 <p>1st semester PSU unit part I : Grade C</p>
 
-<p>my_printf_2019 -- Without Crash</p>
+<p>my_printf -- Without Crash</p>
 
 <p>Result : 45,8 %</p>
   <li>Base tests : 100 % -- 8 / 8</li>
